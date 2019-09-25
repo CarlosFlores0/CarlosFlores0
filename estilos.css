@@ -1,10 +1,10 @@
 @font-face {
 font-family: 'icomoon';
-src:  url('images/fonts/icomoon.eot?dsa4xs');
-src:  url('images/fonts/icomoon.eot?dsa4xs#iefix') format('embedded-opentype'),
-    url('images/fonts/icomoon.ttf?dsa4xs') format('truetype'),
-    url('images/fonts/icomoon.woff?dsa4xs') format('woff'),
-    url('images/fonts/icomoon.svg?dsa4xs#icomoon') format('svg');
+src:  url('/fonts/icomoon.eot?dsa4xs');
+src:  url('/fonts/icomoon.eot?dsa4xs#iefix') format('embedded-opentype'),
+    url('/fonts/icomoon.ttf?dsa4xs') format('truetype'),
+    url('/fonts/icomoon.woff?dsa4xs') format('woff'),
+    url('/fonts/icomoon.svg?dsa4xs#icomoon') format('svg');
 font-weight: normal;
 font-style: normal;
 }
@@ -444,19 +444,19 @@ height: inherit;
 }
 
 .social-link.twitter {
-    background-image: url('./images/twitter.svg');
+    background-image: url('./fonts/twitter.svg');
 }
 
 .social-link.facebook {
-    background-image: url('./images/facebook.svg');
+    background-image: url('./fonts/facebook.svg');
 }
 
 .social-link.github {
-    background-image: url('./images/github.svg');
+    background-image: url('./fonts/github.svg');
 }
 
 .social-link.instagram {
-    background-image: url('./images/instagram.svg');
+    background-image: url('./fonts/instagram.svg');
 }
 
 .form-email input{
@@ -464,7 +464,7 @@ height: inherit;
     border-style: solid;
     border-radius: 5px;
     padding: 10px 20px 10px 25px;
-    background-image: url('./images/envelope.svg');
+    background-image: url('./fonts/envelope.svg');
     background-size: 15px 15px;
     background-repeat: no-repeat;
     background-position-y:center; 
