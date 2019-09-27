@@ -34,14 +34,10 @@ body {
     margin: 0;
 }
 
-/* h1 {
-    font-family: 'Open Sans', Times, serif;
-} */
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Fjalla One', sans-serif;
     font-weight: normal;
-    /* font-style: italic; */
 }
 
 h1 {
@@ -54,11 +50,9 @@ h1 {
 
 h1 strong {
     color: green;
-    /* color: #026fff; */
 }
 
 h2 {
-    /* color: #026fff; */
     color: green;
     text-transform: uppercase;
     font-family: 'Source Sans Pro', sans-serif;
@@ -83,7 +77,6 @@ h2 {
 }
 
 .container {
-    /* border: 1px solid red; */
     max-width: 1000px;
     flex: 1;
     margin: 0 auto;
@@ -130,7 +123,6 @@ figure {
 }
 
 .QuienSoy strong {
-    /* color: green; */
     color: yellowgreen;
 }
 
@@ -141,7 +133,6 @@ figure {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /* flex-wrap: wrap; */
 }
 
 .hero-image{
@@ -229,36 +220,7 @@ height: inherit;
     border-radius: 5px;
 }
 
-/* .lenguages-color {
-    background-color: green;
-    display: flex;
-    justify-content: space-around;
-    border-radius: 100%;
-}
 
-.lenguages-all {
-    padding: 10px;
-    width: 100%;
-    display: flex;
-    justify-content: space-around;
-}
- .lenguages-detail {
-    margin: 0 10px;
-    text-align: center;
-    // width: 100%;
-    background-color: #f4fbff;
-    border-radius: 100%;
-    padding: 5px;
- }
-
-
- .lenguages h3 {
-     margin: 0;
- } */
-
-.lenguages ol {
-    /* list-style: none; */
-}
 
 .lenguages {
     color: white;
@@ -274,7 +236,6 @@ height: inherit;
 
 .lenguages li {
     padding: 22px 0;
-    /* list-style: decimal; */
 }
 
 .lenguages-name {
@@ -312,9 +273,6 @@ height: inherit;
 }
 
 .Experiments {
-    /*border: 3px solid rgba(98,125,77,1);*/
-    /*margin-bottom: 15px;*/
-    /*padding: 20px;*/
     background: white;
     margin-bottom: 25px;
 }
@@ -336,14 +294,10 @@ height: inherit;
 
 .Experiments-description p{
     margin: 6px 12px;
-    /*font-size: small-caps;*/
     font-family: 'Open Sans';
     font-size: 20px;
 }
 
-.Experiments-description-text{
-    /*margin: 6px;*/
-}
 
 .Experiments-images {
     display: flex;
@@ -352,7 +306,6 @@ height: inherit;
 .Experiments-imageWrapper {
     width: 50%;
     background-color: rgb(34, 34, 34);
-    /*padding-right: 5%;*/
 }
 
 .Experiments-image {
@@ -427,7 +380,6 @@ height: inherit;
 }
 
 .contact {
-    /* background-color: #056fff; */
     background-color: rgb(19, 78, 39);
     color: white;
     height: 150px;
@@ -485,7 +437,6 @@ height: inherit;
     border-radius: 5px;
     width: 100px;
     margin-top: 10px;
-    /* margin: 10px auto 0; */
 }
 
 .form-email h3 {
@@ -493,7 +444,6 @@ height: inherit;
 }
 
 .container {
-    /* border: 1px solid red; */
     max-width: 1000px;
     flex: 1;
     margin: 0 auto;
@@ -581,7 +531,6 @@ height: inherit;
         top: 0;
         left: -100vw;
         width: 100vw;
-        /* height: 100vh; */
         bottom: 0;
         display: flex;
         align-items: center;
