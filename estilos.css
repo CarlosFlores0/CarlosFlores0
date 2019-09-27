@@ -119,6 +119,12 @@ figure {
     text-decoration: none;
 }
 
+.menu a:hover{
+    background: transparent;
+    color: yellowgreen;
+    transform: scale(1.1,1.1)
+}
+
 .QuienSoy p {
     color: white;
 }
