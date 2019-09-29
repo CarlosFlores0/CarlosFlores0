@@ -305,12 +305,12 @@ height: inherit;
 
 .Experiments-imageWrapper {
     width: 50%;
-    background-color: rgb(34, 34, 34);
 }
 
 .Experiments-image {
     height: 300px;
     object-fit: cover;
+    vertical-align: top;
 }
 
 
